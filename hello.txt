@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-hello222222
-=======
 hello
->>>>>>> parent of ffc8ccb... add good monning2
+
